@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(241, 226, 198, 0.836);
 }
 
 h1, h2 {
@@ -53,6 +53,7 @@ img {
 
 p {
   font-size: 1em;
+  font-weight: bold;
 }
 
 a {
